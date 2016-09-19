@@ -1,7 +1,7 @@
 Welcome to Zinc
 ===============
 
-NOTE: The CLI is deprecated. For the most up-to-date ways to access the Zinc API, please see the `Zinc API documentation <http://zinc.io/docs>`_
+NOTE: The CLI is deprecated. For the most up-to-date ways to access the Zinc API, please see the `Zinc API documentation <https://docs.zincapi.com/>`_
 
 ===============
 
